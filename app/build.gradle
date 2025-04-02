@@ -4,14 +4,14 @@ plugins {
 
 android {
     namespace 'com.intux.intuxapp'
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.intux.intuxapp"
         minSdk 21
-        targetSdk 33
-        versionCode 6
-        versionName '1.2'
+        targetSdk 34
+        versionCode 8
+        versionName '1.4'
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         signingConfig signingConfigs.debug
