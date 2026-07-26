@@ -1,0 +1,16 @@
+- [x] Punkt 1: build.gradle & Dependencies aktualisieren (SDK 35)
+- [x] Punkt 2: Edge-to-Edge Support in MainActivity.java implementieren
+- [x] Punkt 3: Layout-Anpassung für Insets (Sicherheitsabstände)
+- [x] Korrektur: minSdk auf 23 anheben für Material 1.14.0
+- [x] Finaler Feinschliff: MainActivity modernisieren
+- [x] UX & Komfort-Upgrades implementieren
+- [x] Upgrade auf Java 17
+- [x] Fix 'compileSdk' Deprecation
+- [x] Fix WhatsApp & Intent Links
+- [x] Fix Start-Fehler (ClassNotFoundException)
+- [x] Druckfunktion unterstützen
+    - [x] JavaScript Interface hinzufügen
+    - [x] PrintManager Logik implementieren
+    - [x] window.print() JavaScript Injection
+    - [x] gradle.properties anpassen (newDsl=true)
+    - [x] app/build.gradle Syntax aktualisieren
